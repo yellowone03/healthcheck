@@ -5,7 +5,7 @@ kazoo==2.4.0
 MySQL-python==1.2.5
 pyquery==1.4.0
 requests==2.11.1
-urllib3==1.22
+urllib3==1.26.5
 elasticsearch==6.0.0
 jsonschema==2.6.0
 APScheduler==3.5.3
@@ -17,7 +17,7 @@ kazoo==2.4.0
 MySQL-python==1.2.5
 pyquery==1.4.0
 requests==2.11.1
-urllib3==1.22
+urllib3==1.26.5
 elasticsearch==6.0.0
 jsonschema==2.6.0
 APScheduler==3.5.3
